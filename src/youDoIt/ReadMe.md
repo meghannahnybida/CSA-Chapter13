@@ -16,4 +16,4 @@ catch block is in the program, which is where the user enters data. Next, the fi
 the text files, however it doesn't actually place the user entries there yet, the ByteBuffer helps with this.The buffer transfers the bytes from the file channels to the actual file. After
 this, the catch statement is there to catch any possible errors. That is how text is written on the text files.  </p>
 
-<p> <img src = "Ch13.PNG"> </p>
+<p> <img youDoIt = "Ch13.PNG"> </p>
